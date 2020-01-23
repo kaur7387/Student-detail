@@ -17,6 +17,7 @@ public class StudentDetail {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("Harsimran");
+        System.out.println("Student ID 991558624")
     }
     
 }
